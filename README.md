@@ -92,3 +92,4 @@ python main.py --config ./config/uav-cross-subjectv2/train.yaml --work-dir work_
 ## 四，
 
 将生成的pkl置信度文件放到Ensemble文件夹下，运行ensemble.py，生成pred.npy文件# GCNS
+# GCNS
